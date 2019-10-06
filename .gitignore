@@ -1,0 +1,10 @@
+node_modules
+
+# Editors
+/.vscode
+/.idea
+/jsconfig.json
+
+# OS
+.DS_Store
+Thumbs.db
